@@ -1,2 +1,0 @@
-Credentials are stored in this
-Follow it whenever required.
